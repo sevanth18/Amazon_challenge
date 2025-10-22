@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+tqdm
+sentence-transformers
+torch
+torchvision
+pillow
+requests
+joblib
+matplotlib
+seaborn
